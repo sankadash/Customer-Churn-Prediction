@@ -1,7 +1,7 @@
 # Churning Prediction
 Deadline-23rd April
 
-App Link: https://dharmanshu1921-customer-churning-app-kg5r4p.streamlit.app/
+App Link: https://sankadash-customer-churn-prediction-app-l0gd6a.streamlit.app/
 
 File descriptions
 
